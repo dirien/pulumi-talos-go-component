@@ -1,1 +1,1 @@
-# pulumi-talos-go-component
+# Talos Cluster on DigitalOcean
